@@ -89,14 +89,6 @@ We use SHAP (SHapley Additive exPlanations) to visualize and interpret model out
 
 ---
 
-## ✅ TODO
-
-- [ ] Integrate LangGraph/FastAPI for dynamic predictions  
-- [ ] Expand feature set with pit stop strategy, sector times  
-- [ ] Deploy web-based dashboard for race forecasts  
-
----
-
 ## 📚 References
 
 - [FastF1 Documentation](https://theoehrly.github.io/Fast-F1/)
@@ -111,6 +103,6 @@ We use SHAP (SHapley Additive exPlanations) to visualize and interpret model out
 **Taha**  
 📘 MSc Data Science, University of Sheffield  
 🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
-✉️ [YourEmail@example.com]
+✉️ [tahak070@gmail.com]
 
 ---
